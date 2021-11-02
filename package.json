@@ -1,0 +1,21 @@
+{
+  "name": "convert-image",
+  "version": "1.0.0",
+  "description": "picture converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchunhui/convert-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuchunhui/convert-image/issues"
+  },
+  "homepage": "https://github.com/fuchunhui/convert-image#readme"
+}
